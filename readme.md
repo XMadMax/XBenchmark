@@ -4,7 +4,8 @@ Benchmark trace & log any php, without modifying a single line of code. Usefull 
 
 ## Install
 
-Copy this php anywhere on your system
+Copy XBenchmark.php anywhere on your system
+Works either Windows & Linux
 
 -----------------------------------
 ### Method 1 (For any PHP)
